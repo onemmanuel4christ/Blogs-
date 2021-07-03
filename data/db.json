@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Introduction",
+      "body": "EschweweilerEschweilerEschweilerEschweilerEschweilerEschweilerEschweilerEschweiler",
+      "authour": "sebastian@codingthesmartway.com"
+    },
+    {
+      "id": 2,
+      "title": "Introduction 2",
+      "body": "ErEschweilerEschweilerEschweilerEschweilerEschweilerEschweilerEschweilerEschweiler",
+      "authour": "sebastian@codingthesmartway.com"
+    },
+    {
+      "id": 3,
+      "title": "Introduction 3",
+      "body": "EsilerEschweilerEschweilerEschweilerEschweilerEschweilerEschweilerEschweilerEschweiler",
+      "authour": "sebastian@codingthesmartway.com"
+    }
+  ]
+}
